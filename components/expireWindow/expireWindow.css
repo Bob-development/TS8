@@ -1,0 +1,27 @@
+.timer{
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 50px;
+    height: 48px;
+    border: 3px solid;
+    border-radius: 50px;
+}
+
+.buttons-wrapper{
+    width: 300px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.expireWindow{
+    height: 300px;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    border: 2px solid;
+    border-radius: 30px;
+    align-items: center;
+    justify-content: center;
+}
+
